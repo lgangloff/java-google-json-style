@@ -1,0 +1,5 @@
+GET http://localhost:8080/greeting/all
+    ?fields=id,name,i
+    &itemsPerPage=51
+    &startIndex=0
+
